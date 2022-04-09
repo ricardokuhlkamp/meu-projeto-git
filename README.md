@@ -1,4 +1,4 @@
-# Meu primeiro prjeto no git
+# Meu primeiro projeto no git
 
 [![HitCount](https://hits.dwyl.com/ricardokuhlkamp/meu-projeto-git.svg?style=flat-square&show=unique)](http://hits.dwyl.com/ricardokuhlkamp/meu-projeto-git)
 
